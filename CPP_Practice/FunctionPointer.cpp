@@ -14,6 +14,7 @@ int main()
 	*/
 	void(*pTest)(int) = test;
 
+
 	pTest(8);
 
 	std::cin.get();
