@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{6E7F3A9F-F817-4F44-831B-C2611CDB4DC1}</ProjectGuid>
-    <RootNamespace>CPPPractice</RootNamespace>
+    <ProjectGuid>{9448EA0B-2F29-4ED8-A457-BBD84CA91FFD}</ProjectGuid>
+    <RootNamespace>polymorphism</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -115,8 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="basic_exceptions.cpp" />
-    <ClCompile Include="FunctionPointer.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

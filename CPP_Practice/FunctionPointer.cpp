@@ -5,7 +5,7 @@ void test(int val)
 	std::cout << "Num: " << val << std::endl;
 }
 
-int main()
+int tester()
 {
 	test(7);
 
